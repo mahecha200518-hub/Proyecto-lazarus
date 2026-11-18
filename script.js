@@ -1,2 +1,2 @@
 //archivo java script
-alert("Hola Adso");
+alert("Hola papues");
